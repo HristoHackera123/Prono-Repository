@@ -1,0 +1,14 @@
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Arrays\Massive\bin\Debug\net8.0\Massive - input output.exe
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Arrays\Massive\bin\Debug\net8.0\Massive - input output.deps.json
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Arrays\Massive\bin\Debug\net8.0\Massive - input output.runtimeconfig.json
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Arrays\Massive\bin\Debug\net8.0\Massive - input output.dll
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Arrays\Massive\bin\Debug\net8.0\Massive - input output.pdb
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Arrays\Massive\obj\Debug\net8.0\Massive - input output.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Arrays\Massive\obj\Debug\net8.0\Massive - input output.AssemblyInfoInputs.cache
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Arrays\Massive\obj\Debug\net8.0\Massive - input output.AssemblyInfo.cs
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Arrays\Massive\obj\Debug\net8.0\Massive - input output.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Arrays\Massive\obj\Debug\net8.0\Massive - input output.dll
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Arrays\Massive\obj\Debug\net8.0\refint\Massive - input output.dll
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Arrays\Massive\obj\Debug\net8.0\Massive - input output.pdb
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Arrays\Massive\obj\Debug\net8.0\Massive - input output.genruntimeconfig.cache
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Arrays\Massive\obj\Debug\net8.0\ref\Massive - input output.dll

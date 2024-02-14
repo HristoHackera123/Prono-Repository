@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ArrayWithCmds/1.0.0": {
+        "runtime": {
+          "ArrayWithCmds.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ArrayWithCmds/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

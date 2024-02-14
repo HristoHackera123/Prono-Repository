@@ -1,0 +1,14 @@
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Arrays\SecondZadacha\bin\Debug\net8.0\SecondZadacha.exe
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Arrays\SecondZadacha\bin\Debug\net8.0\SecondZadacha.deps.json
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Arrays\SecondZadacha\bin\Debug\net8.0\SecondZadacha.runtimeconfig.json
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Arrays\SecondZadacha\bin\Debug\net8.0\SecondZadacha.dll
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Arrays\SecondZadacha\bin\Debug\net8.0\SecondZadacha.pdb
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Arrays\SecondZadacha\obj\Debug\net8.0\SecondZadacha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Arrays\SecondZadacha\obj\Debug\net8.0\SecondZadacha.AssemblyInfoInputs.cache
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Arrays\SecondZadacha\obj\Debug\net8.0\SecondZadacha.AssemblyInfo.cs
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Arrays\SecondZadacha\obj\Debug\net8.0\SecondZadacha.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Arrays\SecondZadacha\obj\Debug\net8.0\SecondZadacha.dll
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Arrays\SecondZadacha\obj\Debug\net8.0\refint\SecondZadacha.dll
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Arrays\SecondZadacha\obj\Debug\net8.0\SecondZadacha.pdb
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Arrays\SecondZadacha\obj\Debug\net8.0\SecondZadacha.genruntimeconfig.cache
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Arrays\SecondZadacha\obj\Debug\net8.0\ref\SecondZadacha.dll

@@ -1,0 +1,14 @@
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Arrays\ArrayWithCmds\bin\Debug\net8.0\ArrayWithCmds.exe
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Arrays\ArrayWithCmds\bin\Debug\net8.0\ArrayWithCmds.deps.json
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Arrays\ArrayWithCmds\bin\Debug\net8.0\ArrayWithCmds.runtimeconfig.json
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Arrays\ArrayWithCmds\bin\Debug\net8.0\ArrayWithCmds.dll
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Arrays\ArrayWithCmds\bin\Debug\net8.0\ArrayWithCmds.pdb
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Arrays\ArrayWithCmds\obj\Debug\net8.0\ArrayWithCmds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Arrays\ArrayWithCmds\obj\Debug\net8.0\ArrayWithCmds.AssemblyInfoInputs.cache
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Arrays\ArrayWithCmds\obj\Debug\net8.0\ArrayWithCmds.AssemblyInfo.cs
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Arrays\ArrayWithCmds\obj\Debug\net8.0\ArrayWithCmds.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Arrays\ArrayWithCmds\obj\Debug\net8.0\ArrayWithCmds.dll
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Arrays\ArrayWithCmds\obj\Debug\net8.0\refint\ArrayWithCmds.dll
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Arrays\ArrayWithCmds\obj\Debug\net8.0\ArrayWithCmds.pdb
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Arrays\ArrayWithCmds\obj\Debug\net8.0\ArrayWithCmds.genruntimeconfig.cache
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Arrays\ArrayWithCmds\obj\Debug\net8.0\ref\ArrayWithCmds.dll
