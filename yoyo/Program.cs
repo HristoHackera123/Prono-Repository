@@ -14,6 +14,7 @@ namespace yoyo
                 sum += two[i];
             }
             Console.WriteLine(sum);
+            Console.WriteLine(sum*2);
         }
     }
 }
