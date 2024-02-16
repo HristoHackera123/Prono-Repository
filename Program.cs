@@ -1,4 +1,4 @@
-﻿namespace Massive_input_output
+﻿namespace Massiveinput_output
 {
     internal class Program
     {

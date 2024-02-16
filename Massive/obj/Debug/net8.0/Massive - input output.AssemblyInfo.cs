@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Massive - input output")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+434ca358d8bb804090a2c89e1e64ea798c807e3b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Massive - input output")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Massive - input output")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

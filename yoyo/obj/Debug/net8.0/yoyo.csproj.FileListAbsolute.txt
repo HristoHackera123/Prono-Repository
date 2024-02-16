@@ -1,0 +1,15 @@
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Arrays\yoyo\bin\Debug\net8.0\yoyo.exe
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Arrays\yoyo\bin\Debug\net8.0\yoyo.deps.json
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Arrays\yoyo\bin\Debug\net8.0\yoyo.runtimeconfig.json
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Arrays\yoyo\bin\Debug\net8.0\yoyo.dll
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Arrays\yoyo\bin\Debug\net8.0\yoyo.pdb
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Arrays\yoyo\obj\Debug\net8.0\yoyo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Arrays\yoyo\obj\Debug\net8.0\yoyo.AssemblyInfoInputs.cache
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Arrays\yoyo\obj\Debug\net8.0\yoyo.AssemblyInfo.cs
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Arrays\yoyo\obj\Debug\net8.0\yoyo.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Arrays\yoyo\obj\Debug\net8.0\yoyo.sourcelink.json
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Arrays\yoyo\obj\Debug\net8.0\yoyo.dll
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Arrays\yoyo\obj\Debug\net8.0\refint\yoyo.dll
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Arrays\yoyo\obj\Debug\net8.0\yoyo.pdb
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Arrays\yoyo\obj\Debug\net8.0\yoyo.genruntimeconfig.cache
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Arrays\yoyo\obj\Debug\net8.0\ref\yoyo.dll
