@@ -32,7 +32,12 @@ namespace ArrayWithCmds
                         }
                         else
                         {
+                            if (true)
+                            {
+                                Console.WriteLine("Nigger");
+                            }
                             break;
+                            
                         }
                         Console.WriteLine(string.Join(" ", array));
                         break;
