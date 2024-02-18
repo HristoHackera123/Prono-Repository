@@ -15,6 +15,8 @@ namespace yoyo
             }
             Console.WriteLine(sum);
             Console.WriteLine(sum*2);
+            Console.WriteLine(sum*3); //nigger
+
         }
     }
 }

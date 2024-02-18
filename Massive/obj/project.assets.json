@@ -8,19 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\STUDENTS-1212-2\\.nuget\\packages\\": {}
+    "C:\\Users\\encho\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\STUDENTS-1212-2\\Pictures\\Camera Roll\\hristomir9a\\Arrays\\Massive\\Massive - input output.csproj",
+      "projectUniqueName": "C:\\Users\\encho\\source\\Test\\Massive\\Massive - input output.csproj",
       "projectName": "Massive - input output",
-      "projectPath": "C:\\Users\\STUDENTS-1212-2\\Pictures\\Camera Roll\\hristomir9a\\Arrays\\Massive\\Massive - input output.csproj",
-      "packagesPath": "C:\\Users\\STUDENTS-1212-2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\STUDENTS-1212-2\\Pictures\\Camera Roll\\hristomir9a\\Arrays\\Massive\\obj\\",
+      "projectPath": "C:\\Users\\encho\\source\\Test\\Massive\\Massive - input output.csproj",
+      "packagesPath": "C:\\Users\\encho\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\encho\\source\\Test\\Massive\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\STUDENTS-1212-2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\encho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
